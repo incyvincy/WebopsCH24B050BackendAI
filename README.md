@@ -2,9 +2,6 @@
 
 This repository is the submission for the WebOps and BlockChain Club's InstiSpace project. It includes containerized PostgreSQL setup with pgvector, SQL scripts for managing FAQs with vector embeddings, a GraphQL schema for querying data, and a technical comparison between GraphQL and REST APIs.
 
-![Last Commit](https://img.shields.io/github/last-commit/incyvincy/WebopsCH24B050BackendAI)
-![Repo Size](https://img.shields.io/github/repo-size/incyvincy/WebopsCH24B050BackendAI)
-
 ## Project Structure
 
 ```
