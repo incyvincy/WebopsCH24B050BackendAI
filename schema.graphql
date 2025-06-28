@@ -1,0 +1,11 @@
+type FAQ {
+  id: ID!
+  question: String!
+  answer: String!
+  embedding: [Float!]!
+}
+
+type Query {
+  faqs: [FAQ!]!
+  faqByQuestion(question: String!): [FAQ!]!
+}
