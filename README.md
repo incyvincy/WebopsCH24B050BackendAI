@@ -1,6 +1,9 @@
-# README.md
+# WebopsSubmCH24B050
 
 This repository is the submission for the WebOps and BlockChain Club's InstiSpace project. It includes containerized PostgreSQL setup with pgvector, SQL scripts for managing FAQs with vector embeddings, a GraphQL schema for querying data, and a technical comparison between GraphQL and REST APIs.
+
+![Last Commit](https://img.shields.io/github/last-commit/incyvincy/WebopsCH24B050BackendAI)
+![Repo Size](https://img.shields.io/github/repo-size/incyvincy/WebopsCH24B050BackendAI)
 
 ## Project Structure
 
@@ -11,8 +14,7 @@ This repository is the submission for the WebOps and BlockChain Club's InstiSpac
 ├── faqs.sql                 # SQL script to create table, insert data, and run queries
 ├── graphql_vs_rest.md       # Comparison between GraphQL and REST paradigms
 ├── schema.graphql           # GraphQL schema for querying FAQs
-├── screenshot.png           # Screenshot showing successful SQL query result
-└── submission.zip           # Zipped folder of all submission components
+├── Screenshot*.png          # Screenshot showing successful SQL query result
 ```
 
 ## Step 1: Docker and PostgreSQL Setup
@@ -36,20 +38,8 @@ This repository is the submission for the WebOps and BlockChain Club's InstiSpac
 
 ## Included Screenshot
 
-The `screenshot.png` file demonstrates a successful execution of the query `SELECT * FROM faqs` from a GUI client interface. This serves as visual confirmation of correct Docker and database setup.
+The `Screenshot*.png` file demonstrates a successful execution of the query `SELECT * FROM faqs` from a GUI client interface. This serves as visual confirmation of correct Docker and database setup.
 
 ## Submission Details
 
-The `submission` folder contains all required components:
-- PostgreSQL configuration and setup scripts
-- SQL schema and data manipulation scripts
-- GraphQL API schema
-- REST vs GraphQL documentation
-- Verification screenshot
-
-This submission demonstrates backend container orchestration, database integration, schema design, and API querying concepts in a compact project.
-=======
-# WebopsCH24B050BackendAI
-Backend + AI Task 02
-
-
+All required components have been added and validated for a complete and correct backend + AI setup.
