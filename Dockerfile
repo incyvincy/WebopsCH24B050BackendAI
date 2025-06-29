@@ -1,3 +1,5 @@
+# Dockerfile to install pgvector and load faqs.sql into Postgres
+
 FROM postgres:15
 
 RUN apt-get update && \
