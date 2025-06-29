@@ -9,3 +9,4 @@ type Query {
   faqs: [FAQ!]!
   faqByQuestion(question: String!): [FAQ!]!
 }
+
