@@ -1,4 +1,4 @@
-# WebopsSubmCH24B050
+# WebopsCH24B050BackendAI
 
 This repository is the submission for the WebOps and BlockChain Club's InstiSpace project. It includes containerized PostgreSQL setup with pgvector, SQL scripts for managing FAQs with vector embeddings, a GraphQL schema for querying data, and a technical comparison between GraphQL and REST APIs.
 
