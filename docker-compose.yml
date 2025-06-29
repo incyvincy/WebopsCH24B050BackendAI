@@ -1,3 +1,5 @@
+# This file runs PostgreSQL using Docker for the FAQ project
+
 version: "3.9"
 
 services:
